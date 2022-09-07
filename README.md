@@ -2,6 +2,7 @@
 
 <!--
 **lucasprad05/lucasprad05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github-readme-stats.vercel.app/api/top-langs/?username=lucasprad05
 
 Here are some ideas to get you started:
 
