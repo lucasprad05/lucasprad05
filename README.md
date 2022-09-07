@@ -1,5 +1,5 @@
-### Hi there 👋
-https://github-readme-stats.vercel.app/api/top-langs/?username=lucasprad05
+### Olá, meu nome é Lucas 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasprad05)](https://github.com/lucasprad05/github-readme-stats)
 
 <!--
 **lucasprad05/lucasprad05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
