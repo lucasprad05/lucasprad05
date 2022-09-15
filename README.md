@@ -1,4 +1,4 @@
-### Olá, meu nome é Lucas 👋
+### Hey, I'm Lucas 👋
 
 ##
 
