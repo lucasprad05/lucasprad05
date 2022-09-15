@@ -9,5 +9,7 @@
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasprad05&layout=compact&theme=dark" />
 </a>
 
+##
+
 - 💻 I’m currently working on Python
 - 📚 I’m currently learning JavaScript
