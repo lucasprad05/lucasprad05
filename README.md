@@ -14,4 +14,3 @@
 - 💻 I’m currently working on Python
 - 📚 I’m currently learning JavaScript
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
