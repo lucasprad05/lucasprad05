@@ -3,7 +3,7 @@
 ##
 
 <a href="https://github.com/lucasprad05/github-readme-stats">
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasprad05&show_icons=true&theme=github_dark" />
+  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasprad05&show_icons=true&theme=default" />
 </a>
 <a href="https://github.com/lucasprad05/github-readme-stats">
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasprad05&layout=compact&theme=chartreuse-dark" />
