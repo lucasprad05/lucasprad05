@@ -23,5 +23,5 @@
 <a href="https://www.linkedin.com/in/lucas-prado-249697251" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 
 - 💻 I’m currently working on Python
-- 📚 I’m currently learning JavaScript
+- 📚 I’m currently learning SQL
 ![Snake animation](https://github.com/lucasprad05/lucasprad05/blob/output/github-contribution-grid-snake.svg)
