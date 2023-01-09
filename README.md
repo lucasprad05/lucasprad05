@@ -25,4 +25,4 @@
 - 💻 I’m currently working on Python
 - 📚 I’m currently learning SQL
 
-![Snake animation](https://github.com/lucasprad05/lucasprad05/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lucasprad05/lucasprad05/blob/output/github-contribution-grid-snake.gif)
