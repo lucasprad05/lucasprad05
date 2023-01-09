@@ -9,6 +9,8 @@
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasprad05&layout=compact&theme=codeSTACKr" />
 </a>
 
+### 👨‍💻 Stack:
+
 <div style="display: inline_block"><br>
   <img alt="C" height="35" width"45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img alt="HTML" height="35" width"45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
