@@ -1,5 +1,5 @@
 ### Hey, I'm Lucas 👋
-Here you'll find my personal projects and stuffs from my college
+Here you'll find my personal projects and stuff from my college
 ##
 
 <a href="https://github.com/lucasprad05/github-readme-stats">
