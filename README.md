@@ -1,4 +1,4 @@
-### Hey, I'm Lucas 👋
+<h1>Hey, I'm Lucas 👋</h1>
 Here you'll find my personal projects and stuff from my college
 ##
 
