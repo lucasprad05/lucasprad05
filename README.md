@@ -1,7 +1,7 @@
 <h1>Hey, I'm Lucas 👋</h1>
 <p>Here you'll find my personal projects and stuff from my college</p>
-##
 
+##
 <a href="https://github.com/lucasprad05/github-readme-stats">
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasprad05&show_icons=true&theme=codeSTACKr" />
 </a>
